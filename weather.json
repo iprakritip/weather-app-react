@@ -28,14 +28,13 @@
     "deg":357,
     "gust":3.49
     },
-"clouds":{
-    "all":99},
-    "dt":1678981158,
-    "sys":{"country":"NP",
+"clouds":{ "all":99},
+"dt":1678981158,
+"sys":{"country":"NP",
     "sunrise":1678926802,
     "sunset":1678969951},
     "timezone":20700,
     "id":1282898,
-    "name":"Pokhara",
+"name":"Pokhara",
     "cod":200
 }
